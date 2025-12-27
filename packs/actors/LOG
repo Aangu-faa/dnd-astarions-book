@@ -1,8 +1,15 @@
-2025/12/19-21:25:53.164 1998 Recovering log #64
-2025/12/19-21:25:53.168 1998 Delete type=0 #64
-2025/12/19-21:25:53.168 1998 Delete type=3 #63
-2025/12/19-21:57:54.341 62a0 Level-0 table #68: started
-2025/12/19-21:57:54.341 62a0 Level-0 table #68: 0 bytes OK
-2025/12/19-21:57:54.343 62a0 Delete type=0 #66
-2025/12/19-21:57:54.348 62a0 Manual compaction at level-0 from '!actors!2zAzckTTuSCaApml' @ 72057594037927935 : 1 .. '!actors.items.effects!pEysKS2ttHonOhw3.p2R8nkRo92fYR72M.dnd5espellchange' @ 0 : 0; will stop at (end)
-2025/12/19-21:57:54.355 62a0 Manual compaction at level-1 from '!actors!2zAzckTTuSCaApml' @ 72057594037927935 : 1 .. '!actors.items.effects!pEysKS2ttHonOhw3.p2R8nkRo92fYR72M.dnd5espellchange' @ 0 : 0; will stop at (end)
+2025/12/27-21:57:31.013 5d48 Recovering log #78
+2025/12/27-21:57:31.015 5d48 Delete type=0 #78
+2025/12/27-21:57:31.015 5d48 Delete type=3 #77
+2025/12/28-00:23:51.094 8f74 Level-0 table #82: started
+2025/12/28-00:23:51.095 8f74 Level-0 table #82: 8608 bytes OK
+2025/12/28-00:23:51.096 8f74 Delete type=0 #80
+2025/12/28-00:23:51.097 8f74 Manual compaction at level-0 from '!actors!2zAzckTTuSCaApml' @ 72057594037927935 : 1 .. '!actors.items.effects!pEysKS2ttHonOhw3.p2R8nkRo92fYR72M.dnd5espellchange' @ 0 : 0; will stop at (end)
+2025/12/28-00:23:51.097 8f74 Manual compaction at level-1 from '!actors!2zAzckTTuSCaApml' @ 72057594037927935 : 1 .. '!actors.items.effects!pEysKS2ttHonOhw3.p2R8nkRo92fYR72M.dnd5espellchange' @ 0 : 0; will stop at '!actors!2zAzckTTuSCaApml' @ 155 : 1
+2025/12/28-00:23:51.097 8f74 Compacting 1@1 + 1@2 files
+2025/12/28-00:23:51.100 8f74 Generated table #83@1: 77 keys, 124122 bytes
+2025/12/28-00:23:51.100 8f74 Compacted 1@1 + 1@2 files => 124122 bytes
+2025/12/28-00:23:51.100 8f74 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/28-00:23:51.100 8f74 Delete type=2 #62
+2025/12/28-00:23:51.101 8f74 Delete type=2 #82
+2025/12/28-00:23:51.103 8f74 Manual compaction at level-1 from '!actors!2zAzckTTuSCaApml' @ 155 : 1 .. '!actors.items.effects!pEysKS2ttHonOhw3.p2R8nkRo92fYR72M.dnd5espellchange' @ 0 : 0; will stop at (end)
